@@ -1,2 +1,2 @@
 # GCDTest
-GCD Test Project
+### a gcd test demo
